@@ -26,10 +26,10 @@
   top:100px;
   height: 525px;
   right: 0;
-  width: 400%;
+  width: 300%;
   background-image: url(https://askrealestate.net/wp-content/uploads/2020/09/1-14969_clouds-realistic-cloud-clouds-png.png);
   background-repeat: repeat-x;
-  animation: clouds 15s linear infinite;
+  animation: clouds 10s linear infinite;
   z-index: 5;
 }
 .cloud3{
